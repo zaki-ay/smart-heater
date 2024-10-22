@@ -1,5 +1,7 @@
 # Smart Thermostat Controller
 
+![Image example of the platform](example_image.png)
+
 This IoT project automates the control of a mechanical thermostat using multiple NodeMCU units, a servomotor, and temperature and infrared sensors. The system allows users to set and maintain a desired temperature range via HTTP requests managed by a central NodeMCU server, improving energy efficiency while modernizing an existing thermostat.
 
 ## Features
