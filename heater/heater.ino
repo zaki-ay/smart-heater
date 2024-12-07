@@ -13,7 +13,7 @@
  * USER PARAMETERS
  *******************/
 
-float wanted_temp = 25.0;
+float wanted_temp = 20.0;
 const int local_ip_address = 189;
 const int room_number = 3;
 
@@ -23,9 +23,6 @@ unsigned int moveUpServo = 100;
 unsigned int moveDownServo = 80;
 const bool full_servo = true;
 
-//These values come from config.h, which is part of .gitignore for the purpose of security
-//const char *ssid = "<network-name>";
-//const char *password = "<network-password>";
 /*******************
  * END USER PARAMETERS
  *******************/
